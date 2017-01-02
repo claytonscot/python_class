@@ -1,0 +1,7 @@
+
+
+Player1	40
+Player2	30
+Player3	2
+Clay	55
+Carl	33
